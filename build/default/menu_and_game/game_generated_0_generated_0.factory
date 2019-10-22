@@ -1,0 +1,2 @@
+prototype: "/menu_and_game/thing.go"
+load_dynamically: false

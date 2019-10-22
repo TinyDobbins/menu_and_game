@@ -1,0 +1,16 @@
+function init(self)
+	print('ini menu script')
+
+	if value == 2 then
+
+		--[[
+
+		comment example
+
+		]]--
+
+	end
+
+	--]]
+	
+end

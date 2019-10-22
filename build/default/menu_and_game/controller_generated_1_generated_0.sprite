@@ -1,0 +1,4 @@
+tile_set: "/menu_and_game/menu_and_game.atlas"
+default_animation: "colored_shroom"
+material: "/builtins/materials/sprite.material"
+blend_mode: BLEND_MODE_ALPHA
